@@ -1,0 +1,21 @@
+body{
+    display:block;
+}
+.fairest,
+.forty,
+.look{
+    width: 28%;
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    float:left;
+    padding: 5px;
+}
+.glass,
+.tell,
+.face{
+    width: 28%;
+    float:left;
+    padding: 5px;
+}
+@media (max-width:960px;){
+    width: 100%;
+}
